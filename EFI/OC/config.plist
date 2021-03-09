@@ -1280,11 +1280,11 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02009404QX00001F</string>
+			<string>0</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>uAmKUUWo</data>
+			<data>0</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1292,9 +1292,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro16,3</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CC0VRP3XY</string>
+			<string>0</string>
 			<key>SystemUUID</key>
-			<string>91E06159-1C40-4C08-B5CB-F294E896BB98</string>
+			<string>0</string>
 		</dict>
 	</dict>
 	<key>UEFI</key>
