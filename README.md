@@ -12,3 +12,7 @@ BCM94360ng
 Crucial p5 1tb
 
 Some pen and touchscreen
+
+
+Just fucking use this https://github.com/Vins95/DELL-Inspiron-7391-Hackintosh-EFI-
+Works on bios 1.10
